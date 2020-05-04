@@ -6,7 +6,7 @@
 ;-----------------------------------------------------------
 ; Guess Style 
 ;-----------------------------------------------------------
-(add-to-list 'load-path "/home/kpix/.sys/guess-style")
+;(add-to-list 'load-path "/home/kpix/.sys/guess-style")
 
 ; needed the following to load the guess-style package correctly 2019-01-09
 (require 'guess-style) 
